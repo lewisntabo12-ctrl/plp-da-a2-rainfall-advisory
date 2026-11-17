@@ -2,7 +2,7 @@
 
 ## Project Summary
 This project analyzes multi-county monthly rainfall data across Kenya using NumPy to compute annual totals, monthly averages, wettest months, and dry-month counts. It includes robust error handling to clean raw Machakos weather station data, generates a structured summary CSV report, and provides actionable planting guidance for agricultural support NGOs.
-
+## How to Run
 
 ## Planting Advisory
 * Farmers across all five counties should align their cultivation schedules with peak consecutive two-month rainfall windows to maximize seasonal crop yields.
